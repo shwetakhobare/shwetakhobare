@@ -9,9 +9,9 @@ MSc Computer Science Graduate | Proficient in Manual Testing, Python, HTML, & CS
 <p>
 
 - 👋 Hi, I’m Shweta Khobare,
-- 👀 I’m interested in Quality Engineering, Test Automation
-- 🌱 I’m currently learning Automation Testing & Tools
-- 💻 I’m looking to collaborate on Java, Python Projects and Automation Testing
+- 👀 I’m interested in Quality Engineering, Manual and Automation Testing
+- 🌱 I’m currently learning Manual & Automation Testing & Tools
+- 💻 I’m looking to collaborate on Python with Testing tools like Selenium, Robot Framework etc.
 <br />
 
 🔗 Connect with me...
@@ -26,9 +26,7 @@ MSc Computer Science Graduate | Proficient in Manual Testing, Python, HTML, & CS
 
 #💻 Languages and Tools...
 
-[<img align="left" alt="Java" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg"/>](https://www.java.com/en/)
 [<img align="left" alt="Python" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg"/>](https://www.python.org)
-[<img align="left" alt="Rest Assured" width="40px" src="https://rest-assured.io/img/logo-transparent.png"/>](https://rest-assured.io/)
 [<img align="left" alt="Rest Assured" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png"/>](https://robotframework.org/)
 [<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
 
