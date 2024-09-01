@@ -8,7 +8,7 @@ MSc Computer Science Graduate | Proficient in Manual Testing, Python, HTML, & CS
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetakhobare&label=Profile%20views&color=0e75b6&style=flat" alt="shwetakhobare" /> </p>
 <p>
 
-- 👋 Hi, I’m Suyog Gadhave,
+- 👋 Hi, I’m Shweta Khobare,
 - 👀 I’m interested in Quality Engineering, Test Automation
 - 🌱 I’m currently learning Automation Testing & Tools
 - 💻 I’m looking to collaborate on Java, Python Projects and Automation Testing
