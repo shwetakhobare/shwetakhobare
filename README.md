@@ -46,7 +46,6 @@ MSc Computer Science Graduate | Proficient in Manual Testing, Python, HTML, & CS
 ## Profile 👀🎩
 <a align= "center" href="https://github.com/shwetakhobare">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=shwetakhobare" alt="GitHub Streak" />
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=shwetakhobare)](https://git.io/streak-stats) -->
 <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> -->
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=shwetakhobare&count_private=true&theme=radical&show_icons=true" />
